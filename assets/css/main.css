@@ -1,0 +1,149 @@
+
+.menu{
+	padding-bottom: 1em;
+}
+.logo{
+	width: 6em;
+}
+.box-1{
+	background-color: #F7B617;
+	
+}
+.fondo{
+	background-image: url('../images/taxi.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:  bottom;
+	padding: 10% 0;
+}
+.box-1{
+	background-color: #FFC107;
+	color: white;
+
+}
+.jumbotron h1{
+	font-size: 2em;
+
+}
+
+.txt:before, .txt:after{
+	content: "";
+    display:inline-block;
+    border: 0.080em solid white;
+    width:5.0em;
+    margin:0.5em;
+    vertical-align:bottom;
+}
+
+.margen{
+	padding-right: 0;
+}
+
+.logoB{
+	width: 4em;
+}
+
+.second{
+	background-color: #FFC107;
+}
+.box-2{
+	border:0.068em solid white;
+	padding: 3em;
+	margin: 2em;
+	color:white;
+}
+.title-2{
+	font-size: 3em;
+	padding-bottom: 0.8em;
+}
+.txt-2{
+font-size: 1.3em;
+line-height: 1.5em;
+align-content: justify;
+}
+
+.box-3{
+	padding: 0.5em;
+}
+.third{
+background-image: url('../images/conduce.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+
+
+}
+.box-4{
+	background-color:rgba(0, 0, 0, 0.5);
+	color:white;
+	padding-bottom: 80%;
+}
+
+.bton{
+	background-color: #F7B617;
+	border-style:none;
+}
+.title-3, .txt-3{
+	padding-bottom: 8%;
+}
+.mapa{
+	background-color: #F7B617;
+	padding: 3em;
+}
+
+.form-control{
+	margin-top: 1em;
+	background-color:#FFC107; 
+	color:white;
+}
+.textos{
+	color:white;
+	padding-bottom: 2em;
+}
+.title-5{
+	font-size: 3em;
+}
+.icon-1{
+	margin-bottom: 2em;
+}
+.icon-1{
+	margin-top: 1em;
+}
+.bton-2{
+	text-align: center;
+	margin-top:2em;
+}
+.impt-2::-webkit-input-placeholder{
+	color:white;
+}
+.impt-2:::-moz-placeholder{
+   color: white;
+   }
+
+.pie{
+	background-color: #2B2B2B;
+}
+.iconos{
+ color:white;
+ /*padding-top: 25em;*/
+}
+.lista{
+	color: white;
+}
+.lista li{
+	list-style: none;
+	padding: 1em;
+
+}
+.nota{
+	color:white;
+}
+.pie{
+	padding: 3em;
+}
+.app{
+padding-top: 2em;
+
+}
+.logos{
+	/*padding-top: 15em;*/
+}
